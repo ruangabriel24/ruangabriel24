@@ -7,6 +7,7 @@
 
 <a href="https://mail.google.com/mail/?tab=rm&ogbl"></a>
 
-o codigo vem de uma atividade de finalização de curso da alura
-com o intuito de praticar a logica de programação
+o codigo vem de uma atividade de finalização de curso da alura.
+
+com o intuito de praticar a logica de programação,
 o objetivo é simples sotear uma pessoa da lista na tela
